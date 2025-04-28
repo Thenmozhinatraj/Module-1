@@ -25,7 +25,9 @@ print(num3)
 ```
 ## OUTPUT
 123
-456 
+
+456
+
 789
 
 ## RESULT
