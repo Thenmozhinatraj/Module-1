@@ -28,6 +28,7 @@ else:
 
 ## OUTPUT
 Enter a character: I
+
 The given character is a vowel
 
 ## RESULT
