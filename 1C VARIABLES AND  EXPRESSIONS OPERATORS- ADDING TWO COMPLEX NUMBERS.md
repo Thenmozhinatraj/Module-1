@@ -24,16 +24,12 @@ print("Sum of the two complex numbers:", sum)
 ```
 
 ## OUTPUT
+```
 Enter the first complex number: 2+3j
-
 Enter the second complex number: 4+5j
-
 First complex number: (2+3j)
-
 Second complex number: (4+5j)
-
 Sum of the two complex numbers: (6+8j)
-
-
+```
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
