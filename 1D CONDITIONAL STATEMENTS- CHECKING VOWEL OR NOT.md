@@ -27,9 +27,10 @@ else:
 ```
 
 ## OUTPUT
+```
 Enter a character: I
-
 The given character is a vowel
+```
 
 ## RESULT
 Thus, the Python program to check whether the given character is a vowel or not has been successfully implemented and executed.
