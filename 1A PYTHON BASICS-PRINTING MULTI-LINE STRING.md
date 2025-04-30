@@ -29,14 +29,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
-I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes
-I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes
+![Screenshot 2025-04-30 201705](https://github.com/user-attachments/assets/26a70493-b951-4c33-b8cb-deaadbeb038e)
 
 ## RESULT
 Thus, the Python program to print a string in multiple lines using triple quotes has been successfully executed and the output is verified.
